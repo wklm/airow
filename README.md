@@ -8,16 +8,11 @@
     cd training_analytics
     ```
 
-2. Create and activate a virtual environment:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
 
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements_dev.txt
-    ```
+## Installation
+```bash
+pip install training_analytics
+```
 
 ## Usage
 
