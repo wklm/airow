@@ -27,6 +27,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install flake8 pytest coverage
+        python -m build       
         pip install training_analytics
     - name: Test with pytest
       run: |
