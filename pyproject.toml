@@ -1,11 +1,12 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "training_analytics"
 version = "0.1.0"
 description = "Processing and analyzing performance data from activity computers"
+requires-python = ">=3.8"
 readme = "README.md"
 authors = [
   { name = "Wojtek Kulma", email = "wklm@pm.me" }
@@ -32,21 +33,21 @@ dependencies = [
   "pandas>=1.3.0",
   "matplotlib>=3.4.0",
   "scipy>=1.7.0",
-  "scikit-learn>=0.24.0",  # Corrected package name
-  "statsmodels>=0.11.0",   # Added for time series analysis
-  "jupyter"                # Added for running Jupyter notebooks
+  "scikit-learn>=0.24.0",
+  "statsmodels>=0.11.0",
+  "jupyter"
 ]
 
 [project.optional-dependencies]
 dev = [
-  "coverage",     # testing
-  "mypy",         # type checking
-  "pytest",       # testing
-  "ruff",         # linting
-  "pytest-cov",   # for coverage report with pytest
-  "black",        # code formatting
-  "isort",        # import sorting
-  "pre-commit"    # pre-commit hooks
+  "coverage",
+  "mypy",
+  "pytest",
+  "ruff",
+  "pytest-cov",
+  "black",
+  "isort",
+  "pre-commit"
 ]
 
 [project.urls]
@@ -104,45 +105,3 @@ select = ["E", "F", "W", "C", "N", "B", "I"]
 # isort (Import Sorting)
 [tool.isort]
 profile = "black"
-
-# pre-commit (Pre-commit hooks configuration)
-[tool.pre-commit]
-repos = [
-  {
-    repo = "https://github.com/pre-commit/pre-commit-hooks",
-    rev = "v4.1.0",
-    hooks = [
-      { id = "trailing-whitespace" },
-      { id = "end-of-file-fixer" },
-      { id = "check-yaml" }
-    ]
-  },
-  {
-    repo = "https://github.com/psf/black",
-    rev = "23.1a1",
-    hooks = [
-      { id = "black" }
-    ]
-  },
-  {
-    repo = "https://github.com/pre-commit/mirrors-isort",
-    rev = "v5.9.3",
-    hooks = [
-      { id = "isort" }
-    ]
-  },
-  {
-    repo = "https://github.com/pre-commit/mirrors-mypy",
-    rev = "v0.910",
-    hooks = [
-      { id = "mypy" }
-    ]
-  },
-  {
-    repo = "https://github.com/pre-commit/mirrors-ruff",
-    rev = "v0.0.241",
-    hooks = [
-      { id = "ruff" }
-    ]
-  }
-]
