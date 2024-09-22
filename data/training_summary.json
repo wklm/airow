@@ -1,0 +1,551 @@
+{
+    "activityOverview": {
+        "userId": "1234567890",
+        "activityId": 9480958402,
+        "activityName": "Indoor Cycling",
+        "durationInSeconds": 3667,
+        "startTimeInSeconds": 1661158927,
+        "startTimeOffsetInSeconds": 7200,
+        "activityType": "INDOOR_CYCLING",
+        "averageHeartRateInBeatsPerMinute": 150,
+        "activeKilocalories": 561,
+        "deviceName": "instinct2",
+        "maxHeartRateInBeatsPerMinute": 190
+    },
+    "laps": [
+        {
+            "startTimeInSeconds": 1661158927,
+            "totalDistanceInMeters": 15,
+            "timerDurationInSeconds": 600,
+            "heartRateSamples": [
+                {
+                    "sample_index": 0,
+                    "heart_rate": 120.0
+                },
+                {
+                    "sample_index": 1,
+                    "heart_rate": 121.2
+                },
+                {
+                    "sample_index": 2,
+                    "heart_rate": 122.4
+                },
+                {
+                    "sample_index": 3,
+                    "heart_rate": 123.6
+                },
+                {
+                    "sample_index": 4,
+                    "heart_rate": 124.8
+                },
+                {
+                    "sample_index": 5,
+                    "heart_rate": 126.0
+                },
+                {
+                    "sample_index": 6,
+                    "heart_rate": 125.2
+                },
+                {
+                    "sample_index": 7,
+                    "heart_rate": 124.4
+                },
+                {
+                    "sample_index": 8,
+                    "heart_rate": 123.6
+                },
+                {
+                    "sample_index": 9,
+                    "heart_rate": 122.8
+                },
+                {
+                    "sample_index": 10,
+                    "heart_rate": 122.0
+                },
+                {
+                    "sample_index": 11,
+                    "heart_rate": 125.6
+                },
+                {
+                    "sample_index": 12,
+                    "heart_rate": 129.2
+                },
+                {
+                    "sample_index": 13,
+                    "heart_rate": 132.8
+                },
+                {
+                    "sample_index": 14,
+                    "heart_rate": 136.4
+                },
+                {
+                    "sample_index": 15,
+                    "heart_rate": 140.0
+                },
+                {
+                    "sample_index": 16,
+                    "heart_rate": 140.4
+                },
+                {
+                    "sample_index": 17,
+                    "heart_rate": 140.8
+                },
+                {
+                    "sample_index": 18,
+                    "heart_rate": 141.2
+                },
+                {
+                    "sample_index": 19,
+                    "heart_rate": 141.6
+                },
+                {
+                    "sample_index": 20,
+                    "heart_rate": 142.0
+                },
+                {
+                    "sample_index": 21,
+                    "heart_rate": 144.6
+                },
+                {
+                    "sample_index": 22,
+                    "heart_rate": 147.2
+                },
+                {
+                    "sample_index": 23,
+                    "heart_rate": 149.8
+                },
+                {
+                    "sample_index": 24,
+                    "heart_rate": 152.4
+                },
+                {
+                    "sample_index": 25,
+                    "heart_rate": 155.0
+                },
+                {
+                    "sample_index": 26,
+                    "heart_rate": 153.0
+                },
+                {
+                    "sample_index": 27,
+                    "heart_rate": 151.0
+                },
+                {
+                    "sample_index": 28,
+                    "heart_rate": 149.0
+                },
+                {
+                    "sample_index": 29,
+                    "heart_rate": 147.0
+                },
+                {
+                    "sample_index": 30,
+                    "heart_rate": 145.0
+                },
+                {
+                    "sample_index": 31,
+                    "heart_rate": 144.2
+                },
+                {
+                    "sample_index": 32,
+                    "heart_rate": 143.4
+                },
+                {
+                    "sample_index": 33,
+                    "heart_rate": 142.6
+                },
+                {
+                    "sample_index": 34,
+                    "heart_rate": 141.8
+                },
+                {
+                    "sample_index": 35,
+                    "heart_rate": 141.0
+                },
+                {
+                    "sample_index": 36,
+                    "heart_rate": 142.2
+                },
+                {
+                    "sample_index": 37,
+                    "heart_rate": 143.4
+                },
+                {
+                    "sample_index": 38,
+                    "heart_rate": 144.6
+                },
+                {
+                    "sample_index": 39,
+                    "heart_rate": 145.8
+                },
+                {
+                    "sample_index": 40,
+                    "heart_rate": 147.0
+                },
+                {
+                    "sample_index": 41,
+                    "heart_rate": 148.6
+                },
+                {
+                    "sample_index": 42,
+                    "heart_rate": 150.2
+                },
+                {
+                    "sample_index": 43,
+                    "heart_rate": 151.8
+                },
+                {
+                    "sample_index": 44,
+                    "heart_rate": 153.4
+                },
+                {
+                    "sample_index": 45,
+                    "heart_rate": 155.0
+                },
+                {
+                    "sample_index": 46,
+                    "heart_rate": 156.0
+                },
+                {
+                    "sample_index": 47,
+                    "heart_rate": 157.0
+                },
+                {
+                    "sample_index": 48,
+                    "heart_rate": 158.0
+                },
+                {
+                    "sample_index": 49,
+                    "heart_rate": 159.0
+                },
+                {
+                    "sample_index": 50,
+                    "heart_rate": 160.0
+                },
+                {
+                    "sample_index": 51,
+                    "heart_rate": 164.0
+                },
+                {
+                    "sample_index": 52,
+                    "heart_rate": 168.0
+                },
+                {
+                    "sample_index": 53,
+                    "heart_rate": 172.0
+                },
+                {
+                    "sample_index": 54,
+                    "heart_rate": 176.0
+                },
+                {
+                    "sample_index": 55,
+                    "heart_rate": 180.0
+                },
+                {
+                    "sample_index": 56,
+                    "heart_rate": 174.4
+                },
+                {
+                    "sample_index": 57,
+                    "heart_rate": 168.8
+                },
+                {
+                    "sample_index": 58,
+                    "heart_rate": 163.2
+                },
+                {
+                    "sample_index": 59,
+                    "heart_rate": 157.6
+                },
+                {
+                    "sample_index": 60,
+                    "heart_rate": 152.0
+                },
+                {
+                    "sample_index": 61,
+                    "heart_rate": 145.6
+                },
+                {
+                    "sample_index": 62,
+                    "heart_rate": 139.2
+                },
+                {
+                    "sample_index": 63,
+                    "heart_rate": 132.8
+                },
+                {
+                    "sample_index": 64,
+                    "heart_rate": 126.4
+                }
+            ]
+        },
+        {
+            "startTimeInSeconds": 1661159527,
+            "totalDistanceInMeters": 30,
+            "timerDurationInSeconds": 900,
+            "heartRateSamples": [
+                {
+                    "sample_index": 0,
+                    "heart_rate": 143.0
+                },
+                {
+                    "sample_index": 1,
+                    "heart_rate": 144.6
+                },
+                {
+                    "sample_index": 2,
+                    "heart_rate": 146.2
+                },
+                {
+                    "sample_index": 3,
+                    "heart_rate": 147.8
+                },
+                {
+                    "sample_index": 4,
+                    "heart_rate": 149.4
+                },
+                {
+                    "sample_index": 5,
+                    "heart_rate": 151.0
+                },
+                {
+                    "sample_index": 6,
+                    "heart_rate": 153.6
+                },
+                {
+                    "sample_index": 7,
+                    "heart_rate": 156.2
+                },
+                {
+                    "sample_index": 8,
+                    "heart_rate": 158.8
+                },
+                {
+                    "sample_index": 9,
+                    "heart_rate": 161.4
+                },
+                {
+                    "sample_index": 10,
+                    "heart_rate": 164.0
+                },
+                {
+                    "sample_index": 11,
+                    "heart_rate": 164.0
+                },
+                {
+                    "sample_index": 12,
+                    "heart_rate": 164.0
+                },
+                {
+                    "sample_index": 13,
+                    "heart_rate": 164.0
+                },
+                {
+                    "sample_index": 14,
+                    "heart_rate": 164.0
+                },
+                {
+                    "sample_index": 15,
+                    "heart_rate": 164.0
+                },
+                {
+                    "sample_index": 16,
+                    "heart_rate": 165.8
+                },
+                {
+                    "sample_index": 17,
+                    "heart_rate": 167.6
+                },
+                {
+                    "sample_index": 18,
+                    "heart_rate": 169.4
+                },
+                {
+                    "sample_index": 19,
+                    "heart_rate": 171.2
+                },
+                {
+                    "sample_index": 20,
+                    "heart_rate": 173.0
+                },
+                {
+                    "sample_index": 21,
+                    "heart_rate": 174.6
+                },
+                {
+                    "sample_index": 22,
+                    "heart_rate": 176.2
+                },
+                {
+                    "sample_index": 23,
+                    "heart_rate": 177.8
+                },
+                {
+                    "sample_index": 24,
+                    "heart_rate": 179.4
+                },
+                {
+                    "sample_index": 25,
+                    "heart_rate": 181.0
+                },
+                {
+                    "sample_index": 26,
+                    "heart_rate": 180.8
+                },
+                {
+                    "sample_index": 27,
+                    "heart_rate": 180.6
+                },
+                {
+                    "sample_index": 28,
+                    "heart_rate": 180.4
+                },
+                {
+                    "sample_index": 29,
+                    "heart_rate": 180.2
+                },
+                {
+                    "sample_index": 30,
+                    "heart_rate": 180.0
+                },
+                {
+                    "sample_index": 31,
+                    "heart_rate": 180.4
+                },
+                {
+                    "sample_index": 32,
+                    "heart_rate": 180.8
+                },
+                {
+                    "sample_index": 33,
+                    "heart_rate": 181.2
+                },
+                {
+                    "sample_index": 34,
+                    "heart_rate": 181.6
+                },
+                {
+                    "sample_index": 35,
+                    "heart_rate": 182.0
+                },
+                {
+                    "sample_index": 36,
+                    "heart_rate": 179.6
+                },
+                {
+                    "sample_index": 37,
+                    "heart_rate": 177.2
+                },
+                {
+                    "sample_index": 38,
+                    "heart_rate": 174.8
+                },
+                {
+                    "sample_index": 39,
+                    "heart_rate": 172.4
+                },
+                {
+                    "sample_index": 40,
+                    "heart_rate": 170.0
+                },
+                {
+                    "sample_index": 41,
+                    "heart_rate": 173.6
+                },
+                {
+                    "sample_index": 42,
+                    "heart_rate": 177.2
+                },
+                {
+                    "sample_index": 43,
+                    "heart_rate": 180.8
+                },
+                {
+                    "sample_index": 44,
+                    "heart_rate": 184.4
+                },
+                {
+                    "sample_index": 45,
+                    "heart_rate": 188.0
+                },
+                {
+                    "sample_index": 46,
+                    "heart_rate": 186.6
+                },
+                {
+                    "sample_index": 47,
+                    "heart_rate": 185.2
+                },
+                {
+                    "sample_index": 48,
+                    "heart_rate": 183.8
+                },
+                {
+                    "sample_index": 49,
+                    "heart_rate": 182.4
+                },
+                {
+                    "sample_index": 50,
+                    "heart_rate": 181.0
+                },
+                {
+                    "sample_index": 51,
+                    "heart_rate": 179.6
+                },
+                {
+                    "sample_index": 52,
+                    "heart_rate": 178.2
+                },
+                {
+                    "sample_index": 53,
+                    "heart_rate": 176.8
+                },
+                {
+                    "sample_index": 54,
+                    "heart_rate": 175.4
+                },
+                {
+                    "sample_index": 55,
+                    "heart_rate": 174.0
+                },
+                {
+                    "sample_index": 56,
+                    "heart_rate": 173.6
+                },
+                {
+                    "sample_index": 57,
+                    "heart_rate": 173.2
+                },
+                {
+                    "sample_index": 58,
+                    "heart_rate": 172.8
+                },
+                {
+                    "sample_index": 59,
+                    "heart_rate": 172.4
+                },
+                {
+                    "sample_index": 60,
+                    "heart_rate": 172.0
+                },
+                {
+                    "sample_index": 61,
+                    "heart_rate": 169.2
+                },
+                {
+                    "sample_index": 62,
+                    "heart_rate": 166.4
+                },
+                {
+                    "sample_index": 63,
+                    "heart_rate": 163.6
+                },
+                {
+                    "sample_index": 64,
+                    "heart_rate": 160.8
+                }
+            ]
+        }
+    ]
+}
